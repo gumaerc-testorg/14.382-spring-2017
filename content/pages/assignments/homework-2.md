@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 371af9c7-8313-bd8c-c5a3-c24c1f588286
 title: Homework 2
 uid: 47c946b2-4baf-f29e-ec61-f8041be4688f

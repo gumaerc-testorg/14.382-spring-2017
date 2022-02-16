@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-382-econometrics-spring-2017/37bb0b9be9d59b8d54ced07e7e1c5afe_PartiallingOut-GenderWageGap_v5.R
+file: /media/courses/14-382-econometrics-spring-2017/37bb0b9be9d59b8d54ced07e7e1c5afe_PartiallingOut-GenderWageGap_v5.R
 file_type: application/octet-stream
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Homework 1
+parent_type: CourseSection
 resourcetype: Other
 title: PartiallingOut-GenderWageGap_v5.R
 uid: 37bb0b9b-e9d5-9b8d-54ce-d07e7e1c5afe
