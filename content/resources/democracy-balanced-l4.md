@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 6
 parent_type: CourseSection
+parent_uid: 5c138074-4ca9-843d-ce19-106724e03403
 resourcetype: Other
 title: democracy-balanced-l4.dta
 uid: 0ecf1ee8-4cff-72c1-33cc-487324ecce83

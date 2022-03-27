@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f2669dae-9bb3-f83b-b6e5-917fbc41a927
 resourcetype: Other
 title: R-NPA-functions-1se-union-rweight.R
 uid: 93c8db56-f7aa-61c4-95bd-c0e017eacc14

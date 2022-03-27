@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 4
 parent_type: CourseSection
+parent_uid: f13960ac-0911-2a9f-e860-4c64f03df157
 resourcetype: Other
 title: L5-BoostrapExamples-sem.R
 uid: b734f460-c8d7-1fbf-130d-28989d26d179

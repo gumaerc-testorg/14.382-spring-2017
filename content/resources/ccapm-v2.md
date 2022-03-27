@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 4
 parent_type: CourseSection
+parent_uid: f13960ac-0911-2a9f-e860-4c64f03df157
 resourcetype: Other
 title: ccapm-v2.R
 uid: 5a7a56c5-8fae-bc0b-034d-cf5f737b0b63

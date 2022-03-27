@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 1
 parent_type: CourseSection
+parent_uid: de424912-f80b-e5f9-33d0-042bd4ccb18f
 resourcetype: Other
 title: penn_jae.dat
 uid: 7a6f1366-c10f-0056-e171-b5383fb63172

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 3
 parent_type: CourseSection
+parent_uid: 194a6c55-90d4-4cda-98f5-c1a3a2ceab44
 resourcetype: Other
 title: fishdata.dta
 uid: f2d8ec47-c1b9-1dbc-85f9-ce4fcd7179e2

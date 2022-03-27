@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 71a1b27f-576f-0e57-5aec-89d8981e6144
 resourcetype: Document
 title: 14.382 Midterm from 2006
 uid: cdc4509a-c2df-5df8-f6f0-a018607f92f6

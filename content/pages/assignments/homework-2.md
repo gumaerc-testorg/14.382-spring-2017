@@ -22,7 +22,7 @@ Solve one of problems 1, 2, or 3 from [Lecture 2 (PDF)]({{< baseurl >}}/resourc
 
 [Hint (R-code for AK) (R)]({{< baseurl >}}/resources/qob)
 
-[AJR Data in CSV form (TXT)](./resolveuid/8a36435eabec2de6d13ef8691ef65b30)
+[AJR Data in CSV form (TXT)]({{< baseurl >}}/resources/acemoglu_col)
 
 ### Hint
 

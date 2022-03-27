@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 5
 parent_type: CourseSection
+parent_uid: 929d2575-4a24-b963-df88-d09ab5e75a07
 resourcetype: Other
 title: mortgage.dta
 uid: dff2f081-5ba7-dfd7-8058-05ed7b6910fb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 2
 parent_type: CourseSection
+parent_uid: 47c946b2-4baf-f29e-ec61-f8041be4688f
 resourcetype: Other
 title: AJR.R
 uid: 19296155-e44b-e574-40cb-73338d4fe311

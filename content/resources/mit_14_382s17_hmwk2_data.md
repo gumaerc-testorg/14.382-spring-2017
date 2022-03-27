@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 2
 parent_type: CourseSection
+parent_uid: 47c946b2-4baf-f29e-ec61-f8041be4688f
 resourcetype: Document
 title: 14.382 Spring 2017 Homework 2 Data Description
 uid: f1e4a845-8c8d-e810-502e-3672d5067948

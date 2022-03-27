@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework 6
 parent_type: CourseSection
+parent_uid: 5c138074-4ca9-843d-ce19-106724e03403
 resourcetype: Other
 title: TestScores-v9.R
 uid: 73b063d5-90f5-a75f-e254-5e440fd8f7a6
