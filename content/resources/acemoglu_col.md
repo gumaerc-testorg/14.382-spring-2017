@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-382-econometrics-spring-2017/8a36435eabec2de6d13ef8691ef65b30_acemoglu_col.txt
+file: /courses/14-382-econometrics-spring-2017/8a36435eabec2de6d13ef8691ef65b30_acemoglu_col.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile

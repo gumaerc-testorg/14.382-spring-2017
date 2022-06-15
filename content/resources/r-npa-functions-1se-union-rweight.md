@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-382-econometrics-spring-2017/93c8db56f7aa61c495bdc0e017eacc14_R-NPA-functions-1se-union-rweight.R
+file: /courses/14-382-econometrics-spring-2017/93c8db56f7aa61c495bdc0e017eacc14_R-NPA-functions-1se-union-rweight.R
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,6 @@ parent_uid: f2669dae-9bb3-f83b-b6e5-917fbc41a927
 resourcetype: Other
 title: R-NPA-functions-1se-union-rweight.R
 uid: 93c8db56-f7aa-61c4-95bd-c0e017eacc14
+video_metadata:
+  youtube_id: null
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the assignment and associated files for homework
+  #4.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,17 +10,19 @@ parent_type: CourseSection
 parent_uid: 371af9c7-8313-bd8c-c5a3-c24c1f588286
 title: Homework 4
 uid: f13960ac-0911-2a9f-e860-4c64f03df157
+video_metadata:
+  youtube_id: null
 ---
 
 Part A (Theory)
 ---------------
 
-(i) Solve one of questions 1–5 in [Lecture 4 (PDF)]({{< baseurl >}}/resources/mit14_382s17_lec4). (ii) Solve question 1 in Lecture 5.
+(i) Solve one of questions 1–5 in {{% resource_link e1aecf6a-41da-1646-0316-8343fcce76bd "Lecture 4 (PDF)" %}}. (ii) Solve question 1 in Lecture 5.
 
 Part B. (Empirics)
 ------------------
 
-(i) Solve question 6 from Lecture 4. (ii) Solve question 2 from [Lecture 5 (PDF)]({{< baseurl >}}/resources/mit14_382s17_lec5). You may consult the R code included (but do not copy it), it relies on the GMM package. If you are using Stata, there is a GMM command there with good documentation and there is also a bs command (no kidding) also called bstrap and bootstrap.
+(i) Solve question 6 from Lecture 4. (ii) Solve question 2 from {{% resource_link 48094f9c-c619-ec6c-5a5b-56aa3bdfc360 "Lecture 5 (PDF)" %}}. You may consult the R code included (but do not copy it), it relies on the GMM package. If you are using Stata, there is a GMM command there with good documentation and there is also a bs command (no kidding) also called bstrap and bootstrap.
 
 Part C (Bonus and Make-up Problems)
 -----------------------------------
@@ -31,8 +35,8 @@ Rules: Solutions should preferably be submitted as pdf documents prepared in lat
 
 ### Associated Files
 
-[R-code for BS Examples in Lecture 5 (R)]({{< baseurl >}}/resources/l5-boostrapexamples-sem)
+{{% resource_link b734f460-c8d7-1fbf-130d-28989d26d179 "R-code for BS Examples in Lecture 5 (R)" %}}
 
-[Data Set on Monthly Total Returns (CSV)]({{< baseurl >}}/resources/ccapm-ready-to-use)
+{{% resource_link dde49bc3-f4a4-8f55-83bb-d139fee92d56 "Data Set on Monthly Total Returns (CSV)" %}}
 
-[R-code (R)]({{< baseurl >}}/resources/ccapm-v2)
+{{% resource_link 5a7a56c5-8fae-bc0b-034d-cf5f737b0b63 "R-code (R)" %}}

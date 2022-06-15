@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-382-econometrics-spring-2017/c503938707edb899d8d5bccf810bc826_Democracy-v4.R
+file: /courses/14-382-econometrics-spring-2017/c503938707edb899d8d5bccf810bc826_Democracy-v4.R
 file_type: application/octet-stream
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: 5c138074-4ca9-843d-ce19-106724e03403
 resourcetype: Other
 title: Democracy-v4.R
 uid: c5039387-07ed-b899-d8d5-bccf810bc826
+video_metadata:
+  youtube_id: null
 ---
