@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/73b063d590f5a75fe2545e440fd8f7a6_TestScores-v9.R
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework 6
 parent_type: CourseSection

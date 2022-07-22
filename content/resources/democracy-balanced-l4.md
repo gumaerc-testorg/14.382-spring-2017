@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/0ecf1ee84cff72c133cc487324ecce83_democracy-balanced-l4.dta
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework 6
 parent_type: CourseSection

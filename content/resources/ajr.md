@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/19296155e44be57440cb73338d4fe311_AJR.R
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework 2
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/f1e4a8458c8de810502e3672d5067948_MIT_14_382S17_Hmwk2_data.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework 2
 parent_type: CourseSection

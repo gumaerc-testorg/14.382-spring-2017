@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/cc824d1b7b4978fec980d05f0b0082e5_Mortgage.R
 file_type: application/octet-stream
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework 5
 parent_type: CourseSection
