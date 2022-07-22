@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'This section contains logistical information about the course. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8990011a-350a-6c28-e231-c44fac6767e8
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
