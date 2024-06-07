@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-382-econometrics-spring-2017/f2d8ec47c1b91dbc85f9ce4fcd7179e2_fishdata.dta
+file_size: 7296
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

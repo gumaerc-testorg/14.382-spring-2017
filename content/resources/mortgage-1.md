@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-382-econometrics-spring-2017/cc824d1b7b4978fec980d05f0b0082e5_Mortgage.R
+file_size: 17383
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
