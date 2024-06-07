@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-382-econometrics-spring-2017/dde49bc3f4a48f5583bbd139fee92d56_ccapm-ready-to-use.csv
+file_size: 34210
 file_type: text/comma-separated-values
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

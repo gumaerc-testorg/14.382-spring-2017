@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-382-econometrics-spring-2017/0ecf1ee84cff72c133cc487324ecce83_democracy-balanced-l4.dta
+file_size: 224734
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

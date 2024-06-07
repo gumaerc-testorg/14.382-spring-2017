@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-382-econometrics-spring-2017/be6c1b229c41c2657feea59ef51d9e17_penn46-mert.R
+file_size: 8939
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
