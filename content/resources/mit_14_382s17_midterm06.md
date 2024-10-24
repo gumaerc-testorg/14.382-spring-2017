@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/cdc4509ac2df5df8f6f0a018607f92f6_MIT_14_382S17_midterm06.pdf
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/cdc4509ac2df5df8f6f0a018607f92f6_MIT_14_382S17_midterm06.pdf
 file_size: 62301
 file_type: application/pdf
 learning_resource_types:

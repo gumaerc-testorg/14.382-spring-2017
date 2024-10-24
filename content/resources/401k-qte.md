@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/90f4ba7c64de77bb652f66f5f7f19f1f_401k-QTE.R
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/90f4ba7c64de77bb652f66f5f7f19f1f_401k-QTE.R
 file_size: 27251
 file_type: application/octet-stream
 learning_resource_types:
