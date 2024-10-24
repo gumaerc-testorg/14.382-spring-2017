@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/dff2f0815ba7dfd7805805ed7b6910fb_mortgage.dta
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/dff2f0815ba7dfd7805805ed7b6910fb_mortgage.dta
 file_size: 155028
 file_type: application/octet-stream
 learning_resource_types: []
