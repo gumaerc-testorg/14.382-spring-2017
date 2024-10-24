@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/b734f460c8d71fbf130d28989d26d179_L5-BoostrapExamples-sem.R
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/b734f460c8d71fbf130d28989d26d179_L5-BoostrapExamples-sem.R
 file_size: 5544
 file_type: application/octet-stream
 learning_resource_types: []
