@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/33c39c3c1de04b9ef16e780dd8b4fa98_MIT14_382S17_GMMslides.pdf
+file: /courses/14-382-econometrics-spring-2017/33c39c3c1de04b9ef16e780dd8b4fa98_MIT14_382S17_GMMslides.pdf
 file_size: 749542
 file_type: application/pdf
 learning_resource_types: []

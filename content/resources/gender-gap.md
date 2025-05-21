@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/352970f3f3d4b5e78aff7b424f6cbc46_gender-gap.R
+file: /courses/14-382-econometrics-spring-2017/352970f3f3d4b5e78aff7b424f6cbc46_gender-gap.R
 file_size: 14918
 file_type: application/octet-stream
 learning_resource_types: []

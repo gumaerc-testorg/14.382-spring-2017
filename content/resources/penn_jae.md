@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/7a6f1366c10f0056e171b5383fb63172_penn_jae.dat
+file: /courses/14-382-econometrics-spring-2017/7a6f1366c10f0056e171b5383fb63172_penn_jae.dat
 file_size: 710009
 file_type: chemical/x-mopac-input
 learning_resource_types: []
