@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/d8e7398d3d6238f309bb72bd021a209b_bigfish.csv
+file: /courses/14-382-econometrics-spring-2017/d8e7398d3d6238f309bb72bd021a209b_bigfish.csv
 file_size: 158030
 file_type: text/comma-separated-values
 learning_resource_types: []
