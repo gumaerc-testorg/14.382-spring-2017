@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/50e2ae6c874207f1b46817b054a4922e_TestScores.dta
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/50e2ae6c874207f1b46817b054a4922e_TestScores.dta
 file_size: 148024
 file_type: application/octet-stream
 learning_resource_types: []

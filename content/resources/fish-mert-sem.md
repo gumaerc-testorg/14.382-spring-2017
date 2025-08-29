@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-382-econometrics-spring-2017/a09a73300a797777e5c4e3b0da236447_fish-mert-sem.R
+file: /ol-ocw-studio-app/courses/14-382-econometrics-spring-2017/a09a73300a797777e5c4e3b0da236447_fish-mert-sem.R
 file_size: 13693
 file_type: application/octet-stream
 learning_resource_types: []
